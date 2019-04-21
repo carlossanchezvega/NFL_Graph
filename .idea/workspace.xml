@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fca4bbd-b187-4df5-aa24-c809ef925a6e" name="Default Changelist" comment="" />
+    <list default="true" id="4fca4bbd-b187-4df5-aa24-c809ef925a6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,12 +265,27 @@
       <workItem from="1554308200063" duration="1563000" />
       <workItem from="1554743276702" duration="1097000" />
       <workItem from="1555696453184" duration="2221000" />
-      <workItem from="1555857531308" duration="1973000" />
+      <workItem from="1555857531308" duration="2381000" />
     </task>
+    <task id="LOCAL-00001" summary="This project aims to represent the relationship between players and colleges in NFL so as to show which ones are the most influential">
+      <created>1555863627546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555863627546</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This project aims to represent the relationship between players and colleges in NFL so as to show which ones are the most influential">
+      <created>1555863759244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555863759244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25847000" />
+    <option name="totallyTimeSpent" value="26255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -300,6 +317,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This project aims to represent the relationship between players and colleges in NFL so as to show which ones are the most influential" />
+    <option name="LAST_COMMIT_MESSAGE" value="This project aims to represent the relationship between players and colleges in NFL so as to show which ones are the most influential" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
